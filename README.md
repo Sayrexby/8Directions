@@ -1,2 +1,0 @@
-# 8Directions
-Test task
